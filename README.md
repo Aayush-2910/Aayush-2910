@@ -1,28 +1,176 @@
 ![Banner](https://github.com/Aayush-2910/Aayush-2910/blob/main/Github%20Banner.jpeg?raw=true)
-# 💫 About Me:
-👋 <b>Hi, I'm Aayush Pandey</b><br>🚀 A fast-growing learner, evolving like AI, with a strong passion for technology and continuous learning.<br>📊 Interested in Data Analytics, AI-driven solutions, and emerging tech fields.<br>💻 A Full Stack Developer who enjoys building scalable, real-world applications.<br><br>🔥 <b>About Me</b><br>🌱 Constantly upgrading my skills and knowledge<br>📈 Love working with data to extract meaningful insights<br>🧠 Believe in learning by building and experimenting<br>⚙️ Focused on practical, industry-relevant projects<br><br>🚀 <b>I'm Currently Working On</b><br>Full Stack web development projects<br>Data Analytics projects using real-world datasets<br>Exploring AI tools and data-driven applications<br><br>🤝<b> I'm Looking to Collaborate On</b><br>Data Analytics & Data Visualization projects<br>Full Stack Development (Web / App-based)<br>Innovative projects involving AI, automation, or analytics<br><br>🆘<b> I'm Looking For Help With</b><br>Advanced Data Analytics techniques<br>Real-world AI & data-centric project exposure<br>Building optimized and scalable systems<br><br>📚<b> I'm Currently Learning</b><br>Data Analytics (Power BI, SQL, Python, Excel)<br>Advanced Full Stack Development<br>AI tools & modern development workflows<br><br>💬<b> Ask Me About</b><br>Full Stack Development<br>Data Analytics basics & dashboards<br>Project structuring and best practices<br><br>⚡ Fun Fact<br>I adapt and grow quickly—just like AI. Learning is my superpower. 🤖🚀
 
+<h1 align="center">Hi 👋, I'm Aayush Pandey</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shivansh_xx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aayush-pandey-4470a132a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushpandey00009@gmail.com) 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Real+World+Applications;Exploring+AI+and+Data+Driven+Systems;Always+Learning+Something+New" />
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aayush-2910&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aayush-2910&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-2910&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aayush-2910&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aayush-2910&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+Fast-growing developer passionate about building scalable applications, exploring modern technologies, and solving real-world problems through code.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aayush-2910&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+💻 **Full Stack Developer** focused on building scalable and practical applications  
+🚀 Passionate about **modern web technologies and emerging tech**  
+📊 Interested in **Data Analytics, AI-powered tools, and automation**  
+🧠 Believe in **learning by building real-world projects**  
+⚡ Continuously improving skills and exploring new technologies  
+
+---
+
+# 🚀 Current Focus
+
+✔ Building **Full Stack Web Applications**  
+✔ Creating **Data Analytics dashboards & insights**  
+✔ Exploring **AI-powered development tools**  
+✔ Working with **modern scalable architectures**
+
+---
+
+# 🤝 Collaboration
+
+I’m open to collaborating on:
+
+- Full Stack Development Projects
+- Data Analytics & Data Visualization
+- AI-driven Applications
+- Innovative Automation Tools
+
+---
+
+# 🧠 Currently Learning
+
+📚 Advanced Full Stack Development  
+📚 Data Analytics (Power BI, SQL, Python)  
+📚 AI tools & modern developer workflows  
+📚 Scalable backend architectures
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:aayushpandey00009@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aayush-pandey-4470a132a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aayush-2910">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)
+
+---
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+
+---
+
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+### 📊 Data & AI
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+
+---
+
+### ☁️ Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+
+---
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aayush-2910&show_icons=true&theme=tokyonight"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Aayush-2910&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-2910&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aayush-2910&theme=radical&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# ✨ Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Profile Views
+
+<p align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=Aayush-2910&icon=3&color=6"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💡 *I adapt and grow quickly — just like AI.*  
+🚀 *Learning new technologies and building impactful projects is my superpower.*
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
