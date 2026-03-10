@@ -1,52 +1,56 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0f2027,40:203a43,70:2c5364,100:4facfe&text=Aayush%20Pandey&fontSize=60&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0f2027,40:203a43,70:2c5364,100:00c6ff&text=Aayush%20Pandey&fontSize=60&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Backend+Systems+Developer;Building+Scalable+Platforms;AI+Driven+Applications;Modern+Web+Architecture"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Backend+Systems+Developer;Building+Scalable+Platforms;AI+Driven+Applications;Modern+Web+Architecture"/>
+
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Aayush-2910&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Aayush-2910?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/Aayush-2910?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Aayush-2910&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Aayush-2910?style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/stars/Aayush-2910?style=for-the-badge&color=0e75b6"/>
 
 </p>
 
 ---
 
-# 🧠 Engineering Identity
+# 🧠 Developer Identity
 
-Full Stack Developer building **scalable applications, intelligent platforms, and modern web systems**.
+Full Stack Engineer focused on **building scalable web platforms and intelligent systems**.
 
-My work focuses on designing solutions that move from **idea → architecture → production**, combining backend engineering, frontend systems, and data-driven technologies.
+My development approach is centered around **clean architecture, performance, and real-world impact**.
 
-**Core interests**
+Core interests include:
 
 • Full Stack Application Development
 • Backend Architecture & APIs
 • AI Assisted Platforms
 • Data Driven Systems
-• Voice-First Interfaces
+• Voice First Interfaces
 
 ---
 
-# 🚀 Featured Work
+# 🚀 Featured Project
 
-### 🔹 VAANI — Voice First Public Service Platform
+### VAANI — Voice First Public Service Platform
 
-A scalable **AI-powered voice platform** that helps users access government services using voice interactions.
+AI-powered voice platform enabling users to interact with government services through voice.
 
-Key features:
+Key Capabilities
 
 • Multi-language voice assistant
-• FastAPI backend with scalable architecture
-• Real-time alerts & community forum
-• AI-driven recommendations
-• Volunteer routing system
+• FastAPI scalable backend
+• Real-time alert system
+• Community forum and reporting
+• AI-powered recommendations
 
 Tech Stack
 
-FastAPI • Python • AI Models • Voice Processing • React
+Python • FastAPI • AI Models • Voice Processing • React
 
 ---
 
@@ -55,37 +59,37 @@ FastAPI • Python • AI Models • Voice Processing • React
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,php,sql&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,js,php,sql&theme=dark"/>
 </p>
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,angular&perline=8"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,angular&theme=dark"/>
 </p>
 
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&perline=8"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&theme=dark"/>
 </p>
 
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=8"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 </p>
 
 ### AI / Data
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=8"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
 </p>
 
-### Tools & Cloud
+### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,netlify&perline=8"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,netlify&theme=dark"/>
 </p>
 
 ---
@@ -108,7 +112,7 @@ FastAPI • Python • AI Models • Voice Processing • React
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -118,21 +122,11 @@ FastAPI • Python • AI Models • Voice Processing • React
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Aayush-2910/Aayush-2910/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 # 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aayush-2910&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aayush-2910&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -143,15 +137,21 @@ FastAPI • Python • AI Models • Voice Processing • React
 <p align="center">
 
 <a href="mailto:aayushpandey00009@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/aayush-pandey-4470a132a">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/Aayush-2910">
+
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
@@ -160,8 +160,8 @@ FastAPI • Python • AI Models • Voice Processing • React
 
 <p align="center">
 
-⚡ *Build systems. Ship products. Solve real problems.*
+⚡ Build • Scale • Innovate
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
