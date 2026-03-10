@@ -1,76 +1,69 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Aayush%20Pandey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Aayush%20Pandey&fontSize=55&color=0:0f2027,50:203a43,100:2c5364&stroke=ffffff&animation=twinkling"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;Building+Scalable+Applications;Backend+Architecture+%7C+AI+Systems;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Developer;Backend+Architect;Building+Scalable+Systems;AI+Powered+Platforms;Always+Learning+Always+Shipping"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/github/followers/Aayush-2910?style=social" />
-<img src="https://img.shields.io/github/stars/Aayush-2910?style=social" />
-<img src="https://komarev.com/ghpvc/?username=Aayush-2910&label=Profile%20views&color=0e75b6&style=flat" />
-
+<img src="https://komarev.com/ghpvc/?username=Aayush-2910&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/Aayush-2910?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Aayush-2910?style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨‍💻 About
+# 🧠 Engineering Identity
 
-I am a **Full Stack Developer and Systems Builder** focused on designing and developing scalable applications, modern web platforms, and intelligent software systems.
+I build **scalable digital systems and modern web platforms** with a focus on **clean architecture, performance, and real-world impact**.
 
-My work combines **backend engineering, modern web architecture, and data-driven development** to build solutions that move from **idea → architecture → production**.
+My work lies at the intersection of:
 
-I enjoy solving real-world problems through technology and continuously exploring **AI-powered systems, automation, and scalable infrastructure.**
+• **Full Stack Engineering**
+• **Backend System Architecture**
+• **AI-Assisted Applications**
+• **Voice-First Platforms**
+• **Data-Driven Systems**
 
----
-
-# 🚀 Engineering Domains
-
-• Full Stack Web Development  
-• Backend Architecture & API Systems  
-• Data-Driven Applications  
-• AI Assisted Platforms  
-• Voice-First Interfaces  
-• Scalable Web Infrastructure  
+I enjoy taking products from **concept → architecture → production** while maintaining **clean engineering standards.**
 
 ---
 
-# 🧰 Tech Stack
+# ⚡ Tech Stack
 
-### Languages
+### Core Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,php,sql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,php,sql&perline=8" />
 </p>
 
-### Frontend
+### Frontend Engineering
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,angular" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,angular&perline=8" />
 </p>
 
-### Backend
+### Backend Systems
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&perline=8" />
 </p>
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=8" />
 </p>
 
-### Data / AI
+### AI / Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=8" />
 </p>
 
-### Tools
+### Infrastructure
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,firebase,vercel" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vercel,netlify&perline=8" />
 </p>
 
 ---
@@ -79,9 +72,9 @@ I enjoy solving real-world problems through technology and continuously explorin
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aayush-2910&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aayush-2910&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-2910&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Aayush-2910&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -93,27 +86,37 @@ I enjoy solving real-world problems through technology and continuously explorin
 
 ---
 
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush-2910&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Aayush-2910/Aayush-2910/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
 # 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aayush-2910&theme=algolia&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aayush-2910&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://github.com/Aayush-2910/Aayush-2910/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 📫 Connect
+# 🌐 Connect
 
 <p align="center">
 
@@ -135,8 +138,8 @@ I enjoy solving real-world problems through technology and continuously explorin
 
 <p align="center">
 
-Building scalable systems • Creating intelligent platforms • Solving real problems
+⚡ *Build. Break. Learn. Repeat.*
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
