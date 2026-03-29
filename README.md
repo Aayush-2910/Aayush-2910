@@ -19,7 +19,7 @@ ship ideas into reality
 
 I’m **Aayush Pandey**, a developer who enjoys building **scalable platforms, intelligent systems, and real-world products**.
 
-My focus is not just writing code — but designing **systems that survive production**.
+My focus is not just writing code - but designing **systems that survive production**.
 
 I work across:
 
