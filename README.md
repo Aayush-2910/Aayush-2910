@@ -33,7 +33,7 @@ I work across:
 
 # 🚀 Featured Project
 
-## VAANI — Voice First Public Service Platform
+## VAANI - Voice First Public Service Platform
 
 A platform designed to make **public services accessible through voice interaction**.
 
