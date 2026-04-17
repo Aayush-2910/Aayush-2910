@@ -10,7 +10,7 @@
 
 ## About
 
-I'm **Aayush Pandey** — a developer focused on building **scalable platforms, intelligent systems, and real-world products**.
+I'm **Aayush Pandey** - a developer focused on building **scalable platforms, intelligent systems, and real-world products**.
 
 My goal isn't just writing code — it's designing **systems that survive production**.
 
